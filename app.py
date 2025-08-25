@@ -45,7 +45,7 @@ st.markdown(
 )
 
 # ------------------ APP TITLE ------------------
-st.image("assets/logo.png", width=100)  # optional logo
+st.image("logo.png", width=100)  # optional logo
 st.title("🎓 Student Result Predictor (AI Model)")
 st.write("This simple AI model predicts whether a student will **Pass** or **Fail** based on their marks.")
 
